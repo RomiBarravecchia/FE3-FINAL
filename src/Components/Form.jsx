@@ -61,7 +61,7 @@ const Form = () => {
       console.log(`LEAD RECIBIDO: \n Nombre: ${data.name.value} \n Email: ${data.email.value}`);
     }else{
      
-      console.log("Hay errores");
+      console.log("Hay errores.");
     }
      
 
