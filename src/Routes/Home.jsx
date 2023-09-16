@@ -3,7 +3,7 @@ import { ContextGlobal } from '../Components/utils/global.context'
 import Card from '../Components/Card'
 import CardSkeleton from '../Components/CardSkeleton'
 
-//Este componente debera ser estilado como "dark" o "light" dependiendo del theme del Context
+//Este componente debera ser estilado como "dark" o "light" dependiendo del theme del Contex
 
 const Home = () => {
   const { dentistsState } = useContext(ContextGlobal)

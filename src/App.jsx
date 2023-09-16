@@ -9,7 +9,7 @@ import Detail from "./Routes/Detail";
 import Favs from "./Routes/Favs";
 
 import "./Components/header.css"
-import { useGlobalContext } from "./Components/utils/global.context";
+
 
 
 function App() {
